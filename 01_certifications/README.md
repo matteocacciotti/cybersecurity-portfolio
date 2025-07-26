@@ -1,12 +1,12 @@
 ## 📘 Certifications
 
+Organized notes and lab references for current and planned certifications in networking, Linux, and offensive security.
+
 ### 🟢 In Progress
-- Cisco Certified Support Technician (CCST) – Networking
-- Linux Essentials (LPI)
-- CompTIA Security+
+- [📁 CCST – Cisco Certified Support Technician (Networking)](./ccst-networking/)
+- [📁 LPI Linux Essentials](./lpi-linux-essentials/)
+- [📁 CompTIA Security+](./comptia-security+/)
 
 ### 🔴 Planned (Red Team Focus)
-- eJPT (eLearnSecurity Junior Penetration Tester)
-- OSCP (Offensive Security Certified Professional)
-
-All notes and lab references will be added here.
+- [📁 eJPT (eLearnSecurity Junior Penetration Tester)](./ejpt/)
+- [📁 OSCP (Offensive Security Certified Professional)](./oscp/)
