@@ -116,9 +116,9 @@ This repository reflects my real effort and growth. AI was a tool to **enhance s
 
 ## 🔗 Platforms
 
-[![GitHub](https://img.shields.io/badge/GitHub-MatteoCacciotti-black?logo=github)](https://github.com/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-In%20Progress-red?logo=tryhackme)](https://tryhackme.com/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Future-green?logo=hackthebox)](https://www.hackthebox.com/)
+[![GitHub](https://img.shields.io/badge/-?logo=github&style=for-the-badge&logoColor=white&labelColor=181717&color=181717)](https://github.com/matteocacciotti)
+[![TryHackMe](https://img.shields.io/badge/-?logo=tryhackme&style=for-the-badge&logoColor=white&labelColor=212C42&color=212C42)](https://tryhackme.com/p/matteocacciotti)
+[![Hack The Box](https://img.shields.io/badge/-?logo=hackthebox&style=for-the-badge&logoColor=white&labelColor=111927&color=111927)](https://app.hackthebox.com/profile/2480844)
 
 ---
 
